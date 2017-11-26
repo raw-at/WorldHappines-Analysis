@@ -1,0 +1,8 @@
+1.) install python3 
+2.) commands for other libraries
+    pip install numpy
+    pip install pandas
+    pip install matplotlib
+3.) After that run python file
+    python da.py
+    
